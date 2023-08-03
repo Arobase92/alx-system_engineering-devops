@@ -17,3 +17,4 @@ for the owner, the group owner and all other users.
 to staff for all the files and directories in the working directory.
 16-changes the owner and the group owner of _hello to vincent and staff respectively.
 17-script that will play the StarWars IV episode in the terminal.
+18-changes the owner of the file hello to betty only if it is owned by the user guillaume
