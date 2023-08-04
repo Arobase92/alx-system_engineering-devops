@@ -13,3 +13,4 @@
 13-Create a symbolic link to /bin/ls, named __ls__
 14-script that copies all the HTML files from the current
  working directory to the parent of the working directory
+17-script that creates the directories welcome/, welcome/to/ and welcome/to/school
