@@ -10,3 +10,4 @@
 10-script that changes the working directory to the previous one.
 11-Write a script that lists all files
 12- script that prints the type of the file named iamafile
+13-Create a symbolic link to /bin/ls, named __ls__
