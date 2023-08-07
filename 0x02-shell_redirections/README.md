@@ -9,3 +9,4 @@
 9-script that writes into the file ls_cwd_content
 10-script that duplicates the last line of the file iacta
 10-deletes all the regular files (not the directories) with a .js extension
+11-script that counts the number of directories and sub-directories in the current directory.
