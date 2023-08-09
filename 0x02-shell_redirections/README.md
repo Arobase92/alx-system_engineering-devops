@@ -21,3 +21,4 @@
 20-Create a script that removes all letters c and C from input.
 21-Write a script that reverse its input.
 22-script that displays all users and their home directories
+23-script that parses web servers logs in TSV format 
