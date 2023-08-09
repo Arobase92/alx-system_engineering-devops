@@ -14,3 +14,4 @@ stored in the environment variable TRUEKNOWLEDGE
 12-prints all possible combinations of two letters, except oo
 13-prints a number with two decimal places
 14- script that converts a number from base 10 to base 16
+15- script that encodes and decodes text using the rot13 encryption
